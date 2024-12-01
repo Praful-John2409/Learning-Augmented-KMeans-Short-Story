@@ -23,9 +23,9 @@ The following artifacts are included in this repository:
    - PHY Dataset: Quantum physics data.
    - CIFAR-10: Image classification dataset.
 
-## **view the artifacts here**
+## **View the artifacts here**
 1. View the Medium article [here](https://medium.com/@praful.john2409/enhancing-k-means-clustering-with-pca-a-comprehensive-survey-3fb999e222aa).
-2. Open the `slides/presentation.pptx` for a quick summary.
+2. you can either click [here](https://docs.google.com/presentation/d/1YQid6yf-sT2qHZG0EFGJQ5CJ1SdZ7e59gZp4iAg1JJA/edit?usp=sharing) or download the file to access the PPT that i used for the video.
 
 ## **References**
 - Jabari, I. K. O., et al. (2024). Learning-Augmented K-Means Clustering Using Dimensional Reduction. [arXiv:2401.03198](https://arxiv.org/abs/2401.03198)
