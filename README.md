@@ -9,14 +9,11 @@ The following artifacts are included in this repository:
 1. **[Medium Article](https://medium.com/@praful.john2409/enhancing-k-means-clustering-with-pca-a-comprehensive-survey-3fb999e222aa)**  
    - A detailed summary of the paper, focusing on its methodology, key findings, and results.
    
-2. **[Power Point Presentation](link-to-your-slideshare)**  
+2. **[Power Point Presentation](https://docs.google.com/presentation/d/1YQid6yf-sT2qHZG0EFGJQ5CJ1SdZ7e59gZp4iAg1JJA/edit?usp=sharing)**  
    - A concise and visual summary of the survey paper's main points and results.
   
-3. **[Video Explanation](link-to-your-video)**  
+3. **[Video Explanation](https://youtu.be/QOvaBDwFLNA)**  
    - A video explanation of this survey paper.
-
-4. **Figures and Visuals**  
-   - Graphs and flowcharts derived from the survey paper to enhance understanding.
 
 ## **Key Findings**
 1. PCA improves k-means clustering for high-dimensional datasets by reducing dimensionality and clustering costs.
